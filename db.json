@@ -37,96 +37,19 @@
             }]
         },
         {
-            "apelido": "Unidade 1",
-            "data": "2/22",
-            "kw": "45",
-            "id": 2
-        },
-        {
-            "apelido": "Unidade 2",
-            "data": "2/22",
-            "kw": "38",
-            "id": 3
-        },
-        {
-            "apelido": "Unidade 2",
-            "data": "2/22",
-            "kw": "27",
-            "id": 4
-        },
-        {
-            "apelido": "Unidade 4",
-            "data": "22/22",
-            "kw": "48",
-            "id": 5
-        },
-        {
-            "apelido": "Unidade 4",
-            "data": "2021-09-01T11:19:27.000Z",
-            "kw": "29",
-            "id": 6
-        },
-        {
-            "apelido": "Unidade 4",
-            "data": "2/22",
-            "kw": "51",
-            "id": 7
-        },
-        {
-            "apelido": "Unidade 2",
-            "data": "2/22",
-            "kw": "47",
-            "id": 8
-        },
-        {
-            "apelido": "Unidade 4",
-            "data": "2/22",
-            "kw": "42",
-            "id": 9
-        },
-        {
-            "apelido": "Unidade 1",
-            "data": "2/22",
-            "kw": "35",
-            "id": 10
-        },
-        {
-            "apelido": "Unidade 2",
-            "data": "4/22",
-            "kw": "47",
-            "id": 11
-        },
-        {
-            "apelido": "Unidade 2",
-            "data": "3/22",
-            "kw": "38",
-            "id": 12
-        },
-        {
-            "apelido": "12",
-            "data": "2/22",
-            "kw": "21",
-            "id": 13
-        },
-        {
-            "apelido": "e21",
-            "data": "02/22",
-            "totalGerado": "56",
-            "id": 16
-        },
-        {
-            "apelido": "ewq",
-            "data": "05/22",
-            "kw": "",
-            "totalGerado": "56",
-            "id": 17
-        },
-        {
-            "apelido": "21",
-            "data": "06/22",
-            "kw": "78",
-            "id": 18
+            "ID2": [{
+                "apelido": "Unidade 1",
+                "kw": "25",
+                "apelido2": "Unidade 2",
+                "kw2": "25",
+                "apelido3": "Unidade 3",
+                "kw3": "25",
+                "apelido4": "Unidade 4",
+                "kw4": "25"
+            }]
         }
+
+
     ]
 
 }

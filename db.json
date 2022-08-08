@@ -23,31 +23,40 @@
             "local": "852147963"
         }
     ],
-    "geracoes": [{
-
-            "user1": [{
-                "apelido": "Unidade 1",
-                "kw": "25",
-                "apelido2": "Unidade 2",
-                "kw2": "25",
-                "apelido3": "Unidade 3",
-                "kw3": "25",
-                "apelido4": "Unidade 4",
-                "kw4": "25"
-            }]
+    "user1": [{
+            "apelido": "Unidade 1",
+            "kw": "25"
         },
         {
-            "user2": [{
-                "apelido": "Unidade 1",
-                "kw": "25",
-                "apelido2": "Unidade 2",
-                "kw2": "25",
-                "apelido3": "Unidade 3",
-                "kw3": "25",
-                "apelido4": "Unidade 4",
-                "kw4": "25"
-            }]
+            "apelido": "Unidade 2",
+            "kw": "25"
+        },
+        {
+            "apelido": "Unidade 3",
+            "kw": "25"
+        },
+        {
+            "apelido": "Unidade 4",
+            "kw": "25"
+        }
+    ],
+
+
+    "user2": [{
+            "apelido": "Unidade 1",
+            "kw": "25"
+        },
+        {
+            "apelido": "Unidade 2",
+            "kw": "25"
+        },
+        {
+            "apelido": "Unidade 3",
+            "kw": "25"
+        },
+        {
+            "apelido": "Unidade 4",
+            "kw": "25"
         }
     ]
-
 }

@@ -1,35 +1,26 @@
 {
     "unidades": [{
-            "id": "Cleiton",
-            "apelido": "095.563.089-46",
-            "local": "Rua 5",
-            "marca": "Canadian",
-            "modelo": "155w",
-            "ativo": false
+            "id": "Cleiton Ricardo Spagnol",
+            "apelido": "099.968.859-00",
+            "local": "123456789"
+
         },
         {
-            "id": 2,
-            "apelido": "Painel 2",
-            "local": "Rua 15",
-            "marca": "Risen",
-            "modelo": "100w",
-            "ativo": true
+            "id": "Guilherme Luiz Conceição",
+            "apelido": "789.895.559-56",
+            "local": "9876543121"
+
         },
         {
-            "id": 3,
-            "apelido": "Painel 3",
-            "local": "Rio de janeiro",
-            "marca": "Hanwha",
-            "modelo": "200w",
-            "ativo": true
+            "id": "João Goncalvez",
+            "apelido": "896.756.458-89",
+            "local": "789454112"
+
         },
         {
-            "id": 4,
-            "apelido": "Painel 4",
-            "local": "São Paulo",
-            "marca": "Hanwha",
-            "modelo": "100w",
-            "ativo": true
+            "id": "Thiago dos Santos",
+            "apelido": "652.478.235-56",
+            "local": "852147963"
         }
     ],
     "geracoes": [{

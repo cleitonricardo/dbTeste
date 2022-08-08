@@ -25,7 +25,7 @@
     ],
     "geracoes": [{
 
-            "ID1": [{
+            "user1": [{
                 "apelido": "Unidade 1",
                 "kw": "25",
                 "apelido2": "Unidade 2",
@@ -37,7 +37,7 @@
             }]
         },
         {
-            "ID2": [{
+            "user2": [{
                 "apelido": "Unidade 1",
                 "kw": "25",
                 "apelido2": "Unidade 2",
@@ -48,8 +48,6 @@
                 "kw4": "25"
             }]
         }
-
-
     ]
 
 }

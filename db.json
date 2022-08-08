@@ -24,15 +24,17 @@
         }
     ],
     "geracoes": [{
-            "id": 1,
-            "apelido": "Unidade 1",
-            "kw": "25",
-            "apelido2": "Unidade 2",
-            "kw2": "25",
-            "apelido3": "Unidade 3",
-            "kw3": "25",
-            "apelido4": "Unidade 4",
-            "kw4": "25"
+
+            "ID1": [{
+                "apelido": "Unidade 1",
+                "kw": "25",
+                "apelido2": "Unidade 2",
+                "kw2": "25",
+                "apelido3": "Unidade 3",
+                "kw3": "25",
+                "apelido4": "Unidade 4",
+                "kw4": "25"
+            }]
         },
         {
             "apelido": "Unidade 1",
@@ -126,4 +128,5 @@
             "id": 18
         }
     ]
+
 }

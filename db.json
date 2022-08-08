@@ -24,19 +24,19 @@
         }
     ],
     "user1": [{
-            "apelido": "Unidade 1",
+            "apelido": "Ligado",
             "kw": "25"
         },
         {
-            "apelido": "Unidade 2",
+            "apelido": "Ligado",
             "kw": "25"
         },
         {
-            "apelido": "Unidade 3",
+            "apelido": "Desligado",
             "kw": "25"
         },
         {
-            "apelido": "Unidade 4",
+            "apelido": "Ligado",
             "kw": "25"
         }
     ],
